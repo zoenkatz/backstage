@@ -223,19 +223,26 @@
     "@backstage/plugin-analytics-module-ga4": "0.0.0"
   },
   "changesets": [
+    "afraid-shirts-train",
     "backend-like-a-tattoo",
+    "beige-tigers-matter",
     "brown-eyes-yell",
+    "clean-lobsters-brake",
     "create-app-1682437922",
+    "create-app-1682615501",
     "curvy-months-appear",
     "eighty-olives-live",
+    "fifty-laws-count",
     "five-tigers-whisper",
     "funny-trains-sniff",
     "good-lions-approve",
+    "hungry-foxes-divide",
     "lazy-keys-work",
     "mighty-bears-glow",
     "mighty-cows-greet",
     "modern-pumpkins-join",
     "moody-lizards-beam",
+    "nine-ties-smoke",
     "olive-turkeys-switch",
     "pretty-gifts-greet",
     "quick-flies-guess",
@@ -244,7 +251,9 @@
     "slimy-turkeys-return",
     "soft-readers-exist",
     "swift-fishes-run",
+    "thick-parents-pump",
     "tough-moles-whisper",
+    "unlucky-plants-give",
     "warm-lamps-tease"
   ]
 }

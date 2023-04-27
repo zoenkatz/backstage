@@ -1,5 +1,14 @@
 # @backstage/plugin-kubernetes
 
+## 0.8.1-next.1
+
+### Patch Changes
+
+- a160e02c3d7: Omit managed fields in the Kubernetes resource YAML display.
+- Updated dependencies
+  - @backstage/core-components@0.13.1-next.0
+  - @backstage/plugin-catalog-react@1.6.0-next.1
+
 ## 0.8.1-next.0
 
 ### Patch Changes

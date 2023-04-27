@@ -1,5 +1,13 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.11.0-next.1
+
+### Minor Changes
+
+- f4114f02d49: Allow fetching pod metrics limited by a `labelSelector`.
+
+  This is used by the Kubernetes tab on a components' page and leads to much smaller responses being received from Kubernetes, especially with larger Kubernetes clusters.
+
 ## 0.11.0-next.0
 
 ### Minor Changes
